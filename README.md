@@ -9,7 +9,9 @@
 <br />
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Fantasy guild mage banner" width="960" />
+  <a href="./assets/banner.png">
+    <img src="./assets/banner.png" alt="Zyrkael arcane engineer banner" width="100%" />
+  </a>
 </div>
 
 <br />
