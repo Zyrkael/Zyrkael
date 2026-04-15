@@ -17,6 +17,12 @@
 
 <img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
 
+## 👋 Giới Thiệu
+
+<p align="center">
+  Xin chào, mình là <strong>Nguyen Hong Son</strong>, một developer với 1 năm kinh nghiệm, tập trung vào phát triển ứng dụng web với <strong>React</strong> và <strong>.NET</strong>.
+</p>
+
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
