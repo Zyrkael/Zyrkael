@@ -9,7 +9,7 @@
 <br />
 
 <div align="center">
-  <img src="./assets/banner.png" alt="Fantasy guild mage banner" width="100%" />
+  <img src="./assets/banner.png" alt="Fantasy guild mage banner" width="960" />
 </div>
 
 <br />
