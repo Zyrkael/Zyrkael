@@ -76,7 +76,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=Zyrkael&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="420" />
 <br /><br />
-<img src="https://stats.pphat.top/languages?username=Zyrkael" alt="Top Languages" />
+<img src="https://stats.pphat.top/languages?username=Zyrkael&v=20260415" alt="Top Languages" />
 
 </div>
 
