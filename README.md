@@ -1,48 +1,92 @@
-<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=30&duration=3400&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=1100&height=120&lines=Zyrkael+%E2%80%A2+Nguyen+Hong+Son;Frontend+Developer+with+React+and+Next.js;Building+clean+web+experiences+with+.NET;Turning+ideas+into+playful+interfaces"
-      alt="Zyrkael typing header"
-      width="100%"
-    />
-  </a>
+
+# ~ 💖 Welcome to my Profile 💖 ~
+
+<a href="https://github.com/Zyrkael">
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=26&duration=3400&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=90&lines=Zyrkael+%E2%80%A2+Nguyen+Hong+Son;Frontend+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+.NET" alt="Typing Header" />
+</a>
+
+<p><i>There is a whole new world</i></p>
+<p><i>That you can build with code</i></p>
+<p><i>Smooth interfaces, clean logic</i></p>
+<p><i>And products that feel nice to use</i></p>
+
+<p>
+  <a href="https://github.com/Zyrkael">- Zyrkael - GitHub Profile</a>
+</p>
+
 </div>
 
-## 👋 About Me
-
-<p align="center">
-  Hi, I'm <strong>Nguyen Hong Son</strong>, a developer with 1 year of experience focused on building web applications with <strong>React</strong> and <strong>.NET</strong>.
-</p>
-
-## 📊 GitHub Stats & Trophies
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Zyrkael&theme=dracula&hide_border=true&cache_seconds=86400" alt="Zyrkael's GitHub Streak" width="49%" />
-</p>
-
-## 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="34" height="34" style="margin: 3px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="34" height="34" style="margin: 3px;" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="34" height="34" style="margin: 3px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="34" height="34" style="margin: 3px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="34" height="34" style="margin: 3px;" />
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="34" height="34" style="margin: 3px;" />
-</p>
-
-![Top language](https://stats.pphat.top/languages?username=Zyrkael)
-<br/>
+---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
+
+## 🦊 ~ About me ~ 🦊
+
 </div>
+
+<table align="center">
+  <tr>
+    <td valign="top">
+
+- **Name:** Nguyen Hong Son
+- **Nickname:** Zyrkael
+- **Role:** Frontend Developer
+- **Stack:** React, Next.js, .NET
+- **Experience:** 1 year
+- **Interests:** UI, interactions, practical product work
+
+  </td>
+    <td>
+      <img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" width="180" alt="Anime GIF" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📇 ~ Knowledge ~ 📇
+
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.net-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<br />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
+<p>These are the tools I use most often for web projects.</p>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💫 ~ GitHub Stats ~ 💫
+
+<img src="https://streak-stats.demolab.com/?user=Zyrkael&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="420" />
+<br /><br />
+<img src="https://stats.pphat.top/languages?username=Zyrkael" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 💖 ~ Thanks for reading! ~ 💖
+
+<img src="https://i.imgur.com/tzYKRfd.gif" width="300" alt="Footer GIF" />
+
+</div>
+
