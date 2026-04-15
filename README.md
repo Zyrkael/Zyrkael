@@ -1,21 +1,13 @@
+<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Zyrkael;Full-stack+Developer+%7C+.NET+%26+React"
+      src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=30&duration=3400&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=1100&height=120&lines=Zyrkael+%E2%80%A2+Nguyen+Hong+Son;Frontend+Developer+with+React+and+Next.js;Building+clean+web+experiences+with+.NET;Turning+ideas+into+playful+interfaces"
       alt="Zyrkael typing header"
       width="100%"
     />
   </a>
-
-  <a href="https://komarev.com/ghpvc/?username=Zyrkael">
-    <img
-      src="https://komarev.com/ghpvc/?username=Zyrkael&label=Profile%20Views&color=00e5ff&style=for-the-badge"
-      alt="Zyrkael profile views"
-    />
-  </a>
 </div>
-
-<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
 
 ## 👋 About Me
 
