@@ -1,117 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:4338ca,100:d4a017&height=280&section=header&text=Zyrkael&fontSize=64&fontColor=f8fafc&animation=fadeIn&desc=Arcane%20Engineer%20of%20the%20Digital%20Guild&descAlignY=70" />
-
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&size=24&pause=1200&color=F8D66D&center=true&vCenter=true&width=980&height=48&lines=Full-stack+Mage+of+the+Eastern+Guild;Weaving+React+%26+Next.js+Illusions;Forging+.NET+Core+Runic+Architectures;Turning+Complex+Systems+Into+Arcane+Order" alt="Typing SVG" />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=34&duration=3000&pause=1000&color=A371F7&center=true&vCenter=true&multiline=true&repeat=true&width=1000&height=120&lines=Zyrkael;Full-stack+Developer+%7C+.NET+%26+React"
+      alt="Zyrkael typing header"
+      width="100%"
+    />
+  </a>
+
+  <a href="https://komarev.com/ghpvc/?username=Zyrkael">
+    <img
+      src="https://komarev.com/ghpvc/?username=Zyrkael&label=Profile%20Views&color=00e5ff&style=for-the-badge"
+      alt="Zyrkael profile views"
+    />
   </a>
 </div>
 
-<br />
+<img src="https://i.pinimg.com/originals/22/16/5b/22165b850f5da24a7c5114fa99e411b2.gif" alt="Banner" width="100%" />
+
+## 📊 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Zyrkael&theme=dracula&hide_border=true&cache_seconds=86400" alt="Zyrkael's GitHub Streak" width="49%" />
+</p>
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## DevOps & Cloud
+
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+
+![Top language](https://stats.pphat.top/languages?username=Zyrkael)
+<br/>
 
 <div align="center">
-  <a href="./assets/banner.png">
-    <img src="./assets/banner.png" alt="Zyrkael arcane engineer banner" width="100%" />
-  </a>
-</div>
-
-<br />
-
-## Arcane Profile
-
-I am **Nguyen Hong Son**, a software engineer from **Vietnam**, known in the guild ledger as **Zyrkael**. I craft digital realms where interfaces feel refined, backend systems stay disciplined, and complexity is bound into maintainable structure. My favored schools of magic are **React / Next.js** for illusion and interaction, and **.NET Core / C#** for logic, defense, and long-form architecture.
-
-- Current quest: strengthening authentication rituals and real-time communication circles.
-- Studying now: advanced microservices doctrine and cloud-native spellcraft.
-- Guild status: available for ambitious products, open-source guilds, and serious engineering quests.
-- Summon me for: ASP.NET Core security, React architecture, scalable backend design.
-
----
-
-## Grand Grimoire
-
-### Tome Of Illusions
-
-<p align="center">
-  <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/Next.js.svg" alt="Next.js" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" alt="TypeScript" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML5" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS3" height="54" />
-</p>
-
-### Core Of Runes
-
-<p align="center">
-  <img src="https://icon.icepanel.io/Technology/svg/.NET-core.svg" alt=".NET Core" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" alt="C#" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/Redis.svg" alt="Redis" height="54" />
-</p>
-
-### Forge Relics
-
-<p align="center">
-  <img src="https://icon.icepanel.io/Technology/svg/Git.svg" alt="Git" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio.svg" alt="Visual Studio" height="54" />
-  <img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="VS Code" height="54" />
-</p>
-
----
-
-## Hall Of The Guild
-
-<p align="center">
-  <a href="https://github.com/Zyrkael?tab=followers">
-    <img src="https://img.shields.io/github/followers/Zyrkael?style=for-the-badge&logo=github&label=Guild%20Witnesses&color=312e81" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/Zyrkael?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Open%20The%20Archive-7c3aed?style=for-the-badge&logo=github" alt="GitHub repositories" />
-  </a>
-  <a href="https://github.com/Zyrkael?tab=stars">
-    <img src="https://img.shields.io/badge/Stars-Arcane%20Marks-d4a017?style=for-the-badge&logo=github&logoColor=black" alt="GitHub stars" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Zyrkael?tab=repositories">
-    <img src="https://img.shields.io/badge/Code-Enter%20The%20Vault-0f172a?style=flat-square&logo=github" alt="Explore repositories" />
-  </a>
-  <a href="https://github.com/Zyrkael?tab=projects">
-    <img src="https://img.shields.io/badge/Projects-Active%20Quests-2563eb?style=flat-square&logo=github" alt="GitHub projects" />
-  </a>
-  <a href="https://github.com/Zyrkael?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="https://img.shields.io/badge/Activity-Yearly%20Chronicle-b45309?style=flat-square&logo=github" alt="GitHub activity" />
-  </a>
-</p>
-
----
-
-## Messenger Ravens
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Raven%20Network-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://fb.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Guild%20Hall-1d4ed8?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Arcane%20Lens-c026d3?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Signal%20Type-Enchanted%20Ravens-312e81?style=flat-square" alt="Signal Type" />
-  <img src="https://img.shields.io/badge/Reply%20Speed-Usually%20Within%20A%20Quest-7c3aed?style=flat-square" alt="Reply Speed" />
-  <img src="https://img.shields.io/badge/Alliance-Open%20For%20Strong%20Projects-d4a017?style=flat-square&logoColor=black" alt="Alliance" />
-</p>
-
-<p align="center">
-  <i>"Within every stable system lies a well-drawn circle of magic."</i>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:4338ca,100:d4a017&height=3&section=footer" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" alt="Bottom Line" width="100%" />
 </div>
