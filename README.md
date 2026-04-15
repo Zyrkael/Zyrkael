@@ -3,7 +3,7 @@
 # ~ 💖 Welcome to my Profile 💖 ~
 
 <a href="https://github.com/Zyrkael">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=26&duration=3400&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=90&lines=Zyrkael+%E2%80%A2+Nguyễn+Hồng+Sơn;Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+.NET" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=26&duration=3400&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=90&lines=Zyrkael%20%E2%80%A2%20Nguy%E1%BB%85n%20H%E1%BB%93ng%20S%C6%A1n;Fullstack%20Developer;React%20%E2%80%A2%20Next.js%20%E2%80%A2%20.NET" alt="Typing Header" />
 </a>
 
 <p><i>There is a whole new world</i></p>
