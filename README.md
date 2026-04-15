@@ -3,12 +3,12 @@
 # ~ 💖 Welcome to my Profile 💖 ~
 
 <a href="https://github.com/Zyrkael">
-  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=26&duration=3400&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=90&lines=Zyrkael+%E2%80%A2+Nguyen+Hong+Son;Frontend+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+.NET" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&weight=600&size=26&duration=3400&pause=900&color=22D3EE&center=true&vCenter=true&repeat=true&width=700&height=90&lines=Zyrkael+%E2%80%A2+Nguyễn+Hồng+Sơn;Fullstack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+.NET" alt="Typing Header" />
 </a>
 
 <p><i>There is a whole new world</i></p>
 <p><i>That you can build with code</i></p>
-<p><i>Smooth interfaces, clean logic</i></p>
+<p><i>Clean interfaces, solid backend logic</i></p>
 <p><i>And products that feel nice to use</i></p>
 
 <p>
@@ -31,10 +31,10 @@
 
 - **Name:** Nguyen Hong Son
 - **Nickname:** Zyrkael
-- **Role:** Frontend Developer
+- **Role:** Fullstack Developer
 - **Stack:** React, Next.js, .NET
 - **Experience:** 1 year
-- **Interests:** UI, interactions, practical product work
+- **Interests:** UI, backend systems, and practical product work
 
   </td>
     <td>
@@ -89,4 +89,3 @@
 <img src="https://i.imgur.com/tzYKRfd.gif" width="300" alt="Footer GIF" />
 
 </div>
-
